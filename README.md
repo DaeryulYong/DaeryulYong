@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeAuto&height=300&text=Well%20come%20to%20ymy%project)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&text=Well%20come%20to%20my%project)
 
 <!--
 **DaeryulYong/DaeryulYong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
